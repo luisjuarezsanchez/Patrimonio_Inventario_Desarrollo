@@ -1,0 +1,47 @@
+FIELD-3:País::0
+LINK-7:14:21
+STARTOPTIONS
+ENDOPTIONS
+FIELD-3:Estado::0
+LINK-7:14:21
+STARTOPTIONS
+ENDOPTIONS
+FIELD-3:Municipio::0
+LINK-7:14:21
+STARTOPTIONS
+ENDOPTIONS
+FIELD-3:Localidad::0
+LINK-7:14:21
+STARTOPTIONS
+ENDOPTIONS
+FIELD-3:Región Cultural::0
+LINK-7:14:21
+STARTOPTIONS
+Aridoamérica
+Norte de México
+Occidente de México
+Guerrero
+Oaxaca
+Área Maya
+Golfo de México
+Altiplano Central
+Otro
+ENDOPTIONS
+FIELD-1:Sitio::0
+LINK-7
+FIELD-3:Sitio:Catalago:0
+LINK-14:21
+STARTOPTIONS
+ENDOPTIONS
+FIELD-3:Asociación cultural::0
+LINK-7:14:21
+STARTOPTIONS
+Enterramiento
+Ofrenda
+Tumba
+Relleno
+Doméstico
+Superficie
+Desconocido
+ENDOPTIONS
+

@@ -1,0 +1,191 @@
+FIELD-3:Cuerpo::0
+LINK-4
+STARTOPTIONS
+Cuerpo convergente
+Recto
+Recto divergente
+Globular
+Silueta compuesta
+Curvo convexo
+ENDOPTIONS
+FIELD-3:Base::0
+LINK-4
+STARTOPTIONS
+Anular
+Plana
+Recta
+Cóncava
+Pedestal
+Otro
+ENDOPTIONS
+FIELD-3:Fondo::0
+LINK-4
+STARTOPTIONS
+Plano
+Cóncavo
+Convexo
+Recto
+ENDOPTIONS
+FIELD-3:Cuello::0
+LINK-4
+STARTOPTIONS
+Curvo divergente
+Recto
+Otro
+ENDOPTIONS
+FIELD-3:Boca::0
+LINK-4
+STARTOPTIONS
+Circular
+Ovalada
+Arriñonada
+Otro
+ENDOPTIONS
+FIELD-3:Otros::0
+LINK-4
+STARTOPTIONS
+Asas
+Vertederas
+Soportes
+Tapa
+Otro
+ENDOPTIONS
+FIELD-1:Alto::0
+LINK-5:12:19
+FIELD-1:Largo::0
+LINK-5:12:19
+FIELD-1:Ancho::0
+LINK-5:12:19
+FIELD-1:Espersor::0
+LINK-5:12:19
+FIELD-1:Diámetro::0
+LINK-5:12:19
+FIELD-3:Materia prima:Ficha vasijas:0
+LINK-6
+STARTOPTIONS
+Arcilla
+Piedra
+Alabrastro
+Piedra verde
+Obsidiana
+Otro
+ENDOPTIONS
+FIELD-3:Materia prima:Ficha esculturas:0
+LINK-13
+STARTOPTIONS
+Piedra
+Barro
+Obsidiana
+Cristal de roca
+Otro
+ENDOPTIONS
+FIELD-3:Técnica de manufactura:Ficha vasijas:0
+LINK-6
+STARTOPTIONS
+Modelado
+Moldeado
+Tallado
+Torneado
+Otro
+ENDOPTIONS
+FIELD-3:Técnica de manufactura:Ficha esculturas:0
+LINK-13
+STARTOPTIONS
+Modelado
+Moldeado
+Tallado
+Pulido
+Desgaste
+Esgrafiado
+Calado
+Pintado
+Otro
+ENDOPTIONS
+FIELD-3:Técnica decorativa:Ficha vasijas:0
+LINK-6
+STARTOPTIONS
+Engobe
+Pintura
+Pulido
+Bruñido
+Calado
+Pastillaje
+Inciso
+Esgrafiado
+Pulido a palillos
+Otro
+ENDOPTIONS
+FIELD-3:Técnica decorativa:Ficha esculturas:0
+LINK-13
+STARTOPTIONS
+Estucado
+Policromado
+Pigmentado
+Pulido
+Bruñido
+Zapoteca
+Mezcala
+Teotihuacano
+Mexica
+Tlatilca
+Mazatlinca
+ENDOPTIONS
+FIELD-3:Posición de la decoración:Ficha vasijas:0
+LINK-6
+STARTOPTIONS
+Cuerpo pared exterior
+Cuerpo pared interior
+Borde
+Fondo
+Base
+Soportes
+Asas
+Otro
+ENDOPTIONS
+FIELD-1:Motivos decorativos::0
+LINK-6:13:20
+FIELD-3:Cultura::0
+LINK-6:13:20
+STARTOPTIONS
+Olmeca
+Maya
+Totonaca
+Huasteco
+Mixteca
+Zapoteca
+Mezcala
+Teotihuacano
+Mexica
+Tlatilca
+Mazatlinca
+ENDOPTIONS
+FIELD-3:Época/Periodo:Periodos Vasijas:0
+LINK-6
+STARTOPTIONS
+Preclásico
+Clásico
+Épiclásico
+Posclásico
+De contacto
+ENDOPTIONS
+FIELD-3:Época/Periodo:Periodos Esculturas:0
+LINK-13
+STARTOPTIONS
+Preclásico
+Clásico
+Épiclásico
+Posclásico
+De contacto
+Área Maya
+Golfo de México
+Otro
+ENDOPTIONS
+FIELD-3:Época/Periodo:Periodos Objetos:0
+LINK-20
+STARTOPTIONS
+Preclásico
+Clásico
+Épiclásico
+Posclásico
+De contacto
+ENDOPTIONS

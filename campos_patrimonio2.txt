@@ -1,0 +1,371 @@
+FIELD-3:Otros números de inventario::0
+LINK-2:10:17
+STARTOPTIONS
+Inventario Nacional INAH
+Registro público
+Registro de ingreso
+Catálogo interno
+Otro
+ENDOPTIONS
+FIELD-3:Obtención::0
+LINK-2:10:17
+STARTOPTIONS
+Donación
+Proyecto arqueológico
+Cesión INAH
+Otro
+ENDOPTIONS
+FIELD-3:Ubicación::0
+LINK-2:10:17
+STARTOPTIONS
+Museo Regional de Acambay Antonio Ruiz Pérez
+Museo y Casa de Sor Juana Inés de la Cruz
+Museo Arqueológico Apaxco
+Museo Adolfo López Mateos
+Museo del Centro Cultural Mexiquense Bicentenario
+Museo Isidro Fabela
+Museo Taller Luis Nishizawa
+Museo de Culturas Populares del Estado de México
+Museo de Arte Moderno del Estado de México
+Museo de Ciencias Naturales
+Museo de la Acuarela del Estado de México
+Museo de la Estampa del Estado de México
+Museo José María Velasco
+Cosmovitral Jardín Botánico de Toluca
+Museo Torres Bicentenario
+Museo Dr. José María Luis Mora
+Museo de Numismática del Estado de México
+Museo de Sitio de Ocuilán
+Museo de la Minería de El Oro
+Museo Gonzalo Carrasco
+Museo Felipe Santiago Gutiérrez
+Museo de Antropología e Historia de Toluca
+Museo de Sitio de San Miguel Ixtapan
+Museo Arqueológico del Estado de México Dr. Román Piña Chan
+Museo Municipal de Calixtlahuaca
+Museo de Sitio de la Zona Arqueológica de Teotenango
+Museo Joaquín Arcadio Pagaza
+Museo Arqueológico de Valle de Bravo
+Museo Virreinal de Zinacantepec
+ENDOPTIONS
+FIELD-3:Catálago topográfico::0
+LINK-2:10:17
+STARTOPTIONS
+Sala de exposición
+Depósito de resguardo de acervo
+Otro
+ENDOPTIONS
+FIELD-1:Localización::0
+LINK-2:10:17
+FIELD-1:Tipo de objeto::0
+LINK-3:11:18
+FIELD-3:Tipos de vasija::0
+LINK-3
+STARTOPTIONS
+Plato
+Plato trípode
+Cajete
+Cajete trípode
+Cuenco
+Tecomate
+Cajete de soporte anular
+Copa
+Vaso
+Vaso trípode
+Urna
+Cazuela
+Olla
+Olla trípode
+Botellón
+Zoomorfa
+Doble
+Florero
+Cántaro
+Brasero
+Jarrón
+Lebrillo
+Candelero
+Tintero
+Sahumerio
+Otro
+ENDOPTIONS
+FIELD-3:Tipos de escultura::0
+LINK-11
+STARTOPTIONS
+Antropomorfa
+Fitomorfa
+Zoomorfa
+Mitológica
+Astronómica
+Arquitectónica
+Otro
+ENDOPTIONS
+FIELD-3:Sexo::0
+LINK-11
+STARTOPTIONS
+Femenino
+Masculino
+Indeterminado
+ENDOPTIONS
+FIELD-3:Edad::0
+LINK-11
+STARTOPTIONS
+Infantil
+Joven
+Adulto
+Anciano
+ENDOPTIONS
+FIELD-3:Atavío::0
+LINK-11
+STARTOPTIONS
+Tocado
+Vestimenta
+Calzado
+Accesorios
+Otro
+ENDOPTIONS
+FIELD-3:Modificaciones::0
+LINK-11
+STARTOPTIONS
+Deformación craneal
+Escarificaciones
+Mutilación dentaria
+Estrabismo
+Pintura corporal
+Otra
+ENDOPTIONS
+FIELD-3:Tipos fitomorfa::0
+LINK-11
+STARTOPTIONS
+Hoja
+Planta
+Flor
+Semilla
+Verdura
+Frutos
+Otro
+ENDOPTIONS
+FIELD-3:Tipos zoomorfa::0
+LINK-11
+STARTOPTIONS
+Ave
+Reptil
+Mamífero
+Pez
+Anfibio
+Otro
+ENDOPTIONS
+FIELD-3:Tipos mitológica::0
+LINK-11
+STARTOPTIONS
+Deidad
+Arquitectónico
+Ritual
+Otro
+ENDOPTIONS
+FIELD-3:Tipos astronómica::0
+LINK-11
+STARTOPTIONS
+Cruces punteadas
+Estelas
+Lápidas
+Astros
+Glifos
+Otros
+ENDOPTIONS
+FIELD-3:Tipos arquitectónica::0
+LINK-11
+STARTOPTIONS
+Maqueta
+Clavo
+Almena
+Otro
+ENDOPTIONS
+FIELD-3:Tipos de objeto::0
+LINK-18
+STARTOPTIONS
+Instrumentos musicales
+Herramientas y utensilios en barro
+Herramientas y utensilios en hueso
+Herramientas y utensilios en concha
+Herramientas y utensilios de metal
+Herramientas y utensilios de obsidiana y cristal de roca
+ENDOPTIONS
+FIELD-3:Tipo de instrumento::0
+LINK-18
+STARTOPTIONS
+Sonaja
+Silbato
+Ocarina
+Flauta
+Panhuehuetl
+Teponaztle
+Caracol
+Otro
+ENDOPTIONS
+FIELD-3:Materia prima:musicales:0
+LINK-18
+STARTOPTIONS
+Hueso
+Concha
+Arcilla
+Madera
+Piedra
+Obsidiana
+Cristal de Roca
+Otro
+ENDOPTIONS
+FIELD-3:Técnica de manufactura:musicales:0
+LINK-18
+STARTOPTIONS
+Modelado
+Moldeado
+Tallado
+Pulido
+Calado
+Otro
+ENDOPTIONS
+FIELD-3:Técnica decorativa:musicales:0
+LINK-18
+STARTOPTIONS
+Pulida a palillos
+Pastillaje
+Estucado
+Policromado
+Pigmentado
+Pulido
+Bruñido
+Esgrafiado
+Calado
+Pintado
+Otro
+ENDOPTIONS
+FIELD-3:Materia prima:Barro:0
+LINK-18
+STARTOPTIONS
+Barro
+ENDOPTIONS
+FIELD-3:Técnica de manufactura:Barro:0
+LINK-18
+STARTOPTIONS
+Modelado
+Moldeado
+Tallado
+Pulido
+Calado
+Otro
+ENDOPTIONS
+FIELD-3:Técnica decorativa:Barro:0
+LINK-18
+STARTOPTIONS
+Pulida a palillos
+Pastillaje
+Estucado
+Policromado
+Pigmentado
+Pulido
+Bruñido
+Esgrafiado
+Calado
+Pintado
+Otro
+ENDOPTIONS
+FIELD-3:Materia prima:Hueso:0
+LINK-18
+STARTOPTIONS
+Hueso
+ENDOPTIONS
+FIELD-3:Técnica de manufactura:Hueso:0
+LINK-18
+STARTOPTIONS
+Tallado
+Pulido
+Calado
+Otro
+ENDOPTIONS
+FIELD-3:Técnica decorativa:Hueso:0
+LINK-18
+STARTOPTIONS
+Estucado
+Policromado
+Pigmentado
+Pulido
+Bruñido
+Esgrafiado
+Calado
+Pintado
+Otro
+ENDOPTIONS
+FIELD-3:Materia prima:Concha:0
+LINK-18
+STARTOPTIONS
+Concha
+ENDOPTIONS
+FIELD-3:Técnica de manufactura:Concha:0
+LINK-18
+STARTOPTIONS
+Tallado
+Pulido
+Calado
+Otro
+ENDOPTIONS
+FIELD-3:Técnica decorativa:Concha:0
+LINK-18
+STARTOPTIONS
+Estucado
+Policromado
+Pigmentado
+Pulido
+Bruñido
+Esgrafiado
+Calado
+Pintado
+Otro
+ENDOPTIONS
+FIELD-3:Materia prima:Metal:0
+LINK-18
+STARTOPTIONS
+Cobre
+Bronce
+Plata
+Oro
+Hierro
+Otro
+ENDOPTIONS
+FIELD-3:Técnica de manufactura:Metal:0
+LINK-18
+STARTOPTIONS
+Martillado
+Fundido
+Filigrana
+Soldadura
+Cera perdida
+Otro
+ENDOPTIONS
+FIELD-3:Materia prima:Obsidiana:0
+LINK-18
+STARTOPTIONS
+Obsidiana
+Cristal de roca
+ENDOPTIONS
+FIELD-3:Técnica de manufactura:Obsidiana:0
+LINK-18
+STARTOPTIONS
+Tallado
+Pulido
+Desgaste
+Otro
+ENDOPTIONS
+FIELD-3:Representación::0
+LINK-3
+STARTOPTIONS
+Antropomorfa
+Zoomorfa
+Deidad
+Mítica
+Fitomorfa
+ENDOPTIONS
+FIELD-1:Representación::0
+LINK-11:18
+
+

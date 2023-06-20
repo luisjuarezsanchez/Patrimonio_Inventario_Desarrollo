@@ -1,0 +1,28 @@
+FIELD-3:Estado de conservación::0
+LINK-8:15:22
+STARTOPTIONS
+Completo
+Incompleto
+Bueno
+Regular
+Malo
+Otro
+ENDOPTIONS
+FIELD-3:Diagnóstico de conservación::0
+LINK-8:15:22
+STARTOPTIONS
+Si
+No
+ENDOPTIONS
+FIELD-1:Avalúo::0
+LINK-8:15:22
+FIELD-1:Historia de la pieza::0
+LINK-8:15:22
+FIELD-2:Descripción::0
+LINK-8:15:22
+FIELD-2:Detalles de conservación::0
+LINK-8:15:22
+FIELD-1:Nombre de quien registra::0
+LINK-8:15:22
+FIELD-1:Nombre de quien valida::0
+LINK-8:15:22

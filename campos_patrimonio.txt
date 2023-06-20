@@ -1,0 +1,17 @@
+FIELD-3:Detalle de la técnica::0
+LINK-54
+STARTOPTIONS
+Modelado
+Moldeado
+Torneado
+En placas
+En churros
+Alta temperatura
+Media temperatura
+Alisado
+Pastillaje o bordado
+Esgrafiado
+Calado
+Engobado
+Otro
+ENDOPTIONS

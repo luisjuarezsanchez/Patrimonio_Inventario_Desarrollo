@@ -1,0 +1,147 @@
+FIELD-3:Tipos fitomorfa::0
+LINK-7
+STARTOPTIONS
+Hoja
+Planta
+Flor
+Semilla
+Verdura
+Frutos
+Otro
+ENDOPTIONS
+FIELD-3:Tipos zoomorfa::0
+LINK-7
+STARTOPTIONS
+Ave
+Reptil
+Mamífero
+Pez
+Anfibio
+Otro
+ENDOPTIONS
+FIELD-3:Tipos arquitectura::0
+LINK-7
+STARTOPTIONS
+Maqueta
+Clavo
+Almena
+Otro
+ENDOPTIONS
+FIELD-3:Tipos mitológica::0
+LINK-7
+STARTOPTIONS
+Deidad
+Arquitectónico
+Ritual
+Otro
+ENDOPTIONS
+FIELD-3:Tipos astronómica::0
+LINK-7
+STARTOPTIONS
+Cruces punteadas
+Estelas
+Lápidas
+Astros
+Glifos
+Otros
+ENDOPTIONS
+FIELD-3:Instrumentos musicales::0
+LINK-13
+STARTOPTIONS
+Sonaja
+Silbato
+Ocarina
+Flauta
+Panhuehuetl
+Teponaztle
+Caracol
+Otro
+ENDOPTIONS
+FIELD-3:Objetos de hueso::0
+LINK-13
+STARTOPTIONS
+Agujas
+Punzones
+Estuche
+Hueso tallado
+Lezna
+Pulidor
+Otro
+ENDOPTIONS
+FIELD-3:Herramientas y utensilios en barro::0
+LINK-13
+STARTOPTIONS
+Malacate
+Esfera de barro
+Sellos
+Pintaderas
+Pipas
+Tejos
+Cascabeles
+Cuentas
+Orejeras
+Otro
+ENDOPTIONS
+FIELD-3:Herramientas y utensilios en obsidiana o cristal de roca::0
+LINK-13
+STARTOPTIONS
+Escultura
+Espejo
+Bezote
+Orejera
+Sartales de cuentas
+Cuentas
+Puntas de proyectil
+Cuchillo
+Navajas
+Núcleos
+Raspadores
+Raederas
+Pulidores
+Excéntricos
+Otro
+ENDOPTIONS
+FIELD-3:Herramientas y utensilios en piedra::0
+LINK-13
+STARTOPTIONS
+Macerador
+Raspador
+Metate
+Molcajete
+Tejolote
+Mano de metate
+Hacha de piedra
+Cincel de piedra
+Plomadas
+Esfera de piedra
+Pulidor
+Cuentas
+Sartales de cuentas
+Pesos de red
+Coladera
+Otro
+ENDOPTIONS
+FIELD-3:Objetos de metal::0
+LINK-13
+STARTOPTIONS
+Punzones
+Perforadores
+Agujas
+Cascabeles
+Pinzas
+Hacha
+Anillos
+Aplicaciones
+Láminas
+Máscra miniatura
+Otro
+ENDOPTIONS
+FIELD-3:Objetos de concha::0
+LINK-13
+STARTOPTIONS
+Sartales de cuentas
+Cascabeles
+Pulseras
+Anillos
+Otro
+ENDOPTIONS
