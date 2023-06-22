@@ -27,8 +27,35 @@ function getRowsFromDatabase($tableName, $rowId, $fieldName = "id")
     // $functionResult;
     $dbLink = conecta_DB();
     $dbLink->set_charset("utf8");
-    $query = "SELECT * FROM " . $tableName . " WHERE " . $fieldName . "='" . $rowId . "'LIMIT 10400;";
+    $query = "SELECT * FROM " . $tableName . " WHERE " . $fieldName . "='" . $rowId . "';";
     $result = mysqli_query($dbLink, $query);
+    if (!$result)
+        $functionResult = "NOT_FOUND";
+    else {
+        $functionResult = array();
+        while ($row = mysqli_fetch_assoc($result)) {
+            array_push($functionResult, selectResultToObject($row));
+        }
+        mysqli_free_result($result);
+    }
+    mysqli_close($dbLink);
+    return $functionResult;
+}
+
+function getRowsFromDatabaseDash($seleccion,$filtro)
+{
+    // $functionResult;
+    $dbLink = conecta_DB();
+    $dbLink->set_charset("utf8");
+    //$query = "SELECT * FROM " . $tableName . " WHERE " . $fieldName . "='" . $rowId . "AND ".$idficha." = ".$filtro."';";
+    $query = "SELECT * FROM registros WHERE ID_ESTATUS_REGISTRO = ".$filtro." AND ID_FICHA = '$seleccion' /*LIMIT 520,10*/";
+    /*$query = "SELECT ID, FECHA, SUBSTRING(FROM_UNIXTIME(FECHA),1,10) AS FECHA_DECOD, ID_USUARIO, ID_PERIODO, ID_FICHA, ID_ESTATUS_PAPELERA, ID_ESTATUS_REGISTRO, ID_MUSEO, AUTOR, NUMERODECAT
+    FROM registros
+    WHERE ID_ESTATUS_REGISTRO IN (2, 3) AND ID_FICHA = 6 AND SUBSTRING(FROM_UNIXTIME(FECHA),1,10) LIKE '%2023-05-%' 
+    ORDER BY FECHA_DECOD DESC
+    LIMIT 349,1;";*/
+    $result = mysqli_query($dbLink, $query);	
+    
     if (!$result)
         $functionResult = "NOT_FOUND";
     else {
