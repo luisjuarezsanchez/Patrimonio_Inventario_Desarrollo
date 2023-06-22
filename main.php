@@ -4,7 +4,7 @@ header("Content-Type: text/html;charset=UTF-8");
  * Created by IntelliJ IDEA.
  * User: leonardo
  * Date: 09/06/2019
- * Time: 10:54 PM
+ * Time: 10:54 PM 
  */
 
 include "lib/validarPermisos.php";
@@ -870,6 +870,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 
                                 <?php
+                    } else if ($misRegistros == 8){
+                        include "dashFiltro.php";
+
                     } else if ($misRegistros == 6) {
                         ?>
 
