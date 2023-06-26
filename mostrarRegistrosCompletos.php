@@ -383,16 +383,16 @@ function agregarCampos($nombre, $registro)
     <div class="candile-inner">
 
         <div class="alert alert-info" role="alert">
-            <h4 class="alert-heading">El funcionamiento del Dashboard general ha cambiado</h4>
+            <h4 class="alert-heading">El funcionamiento del Dashboard general ha cambiado.</h4>
             <p>Para buscar la pieza de tu interés,
                 selecciona la colección en la que deseas realizar la búsqueda.</p>
             <hr>
             <p class="mb-0">1.- Selecciona un elemento de la lista desplegable. <br>
-                2.- Da clic en el boton verde 'Buscar'. <br>
+                2.- Da clic en el boton verde "Buscar". <br>
                 3.- Se abrirá una nueva pestaña donde podrás consultar las piezas de tu interés.</p>
             <hr>
             <p>Nota: Según el número de registros de la colección seleccionada la pestaña
-                puede tardar en cargar.
+                puede tardar en cargar. 
             </p>
         </div>
 
