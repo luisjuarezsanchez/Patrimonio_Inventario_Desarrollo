@@ -416,7 +416,7 @@ function agregarCampos($nombre, $registro)
                         <option value="12">Taxidermia</option>
                     </optgroup>
                     <option value="9">Numismática</option>
-                    <option value="14">Objeto histórico</option>
+                    <option value="14">Objeto histórico</option> 
                     <option value="15">Siglo XIX</option>
                     <option value="6">Virreinal</option>
                 </select>
